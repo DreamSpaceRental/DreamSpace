@@ -2,7 +2,12 @@
 A program for listing and finding Professional spaces to rent.
 
 ## Basic Functionality
-  A user will navigate to a website (etc. https://dreamspacerental.com) and they will see a landing page, where there will be a button to log in, a search box to input an area to search
+  - A user will navigate to a website (etc. https://dreamspacerental.com) and they will see a landing page.
+  - The Landing page will contain:
+  -- A button to log in.
+  -- A Button to Sign Up.
+  -- A Search box to search for open rentals.
+  -- A Button to list your space for rent.
 
 ## Front-End:
   The front end will be created in React, using Redux in order to connect to the Back-End.  It will be built on a base of shared elements which then send requests to the Back-End API which will be seperate from the Front-End.
