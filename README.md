@@ -53,6 +53,7 @@ A program for listing and finding Professional spaces to rent.
     * Date Listed
     * Location
     * Surroundings
+    * Rental Type (Hair, Nails, Esthetics, Office, Warehouse, etc.)
 
 #### Rental Listing Creation Page:
   * A user will be able to easily list their professional space for rent
