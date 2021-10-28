@@ -2,6 +2,16 @@
 A program for listing and finding Professional spaces to rent.
 
 ## Basic Functionality
+  ### Pages
+  * Landing Page
+  * Login Page
+  * Account Creation Page
+  * Search Result Page
+  * Individual Rental detail page
+  * Rental Listing Creation Page
+  * Current Listings Page
+
+#### Landing Page
   * A user will navigate to a website (etc. https://dreamspacerental.com) and they will see a landing page.
   * The Landing page will contain:
     * A button to log in.
