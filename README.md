@@ -73,6 +73,12 @@ A program for listing and finding Professional spaces to rent.
 
 ## Back-End:
   The Back End will be created in Ruby, which will host the API, calculate all necessary values and elements and send them to the Front-End as responses to API requests.  This will be hosted on AWS as an EC2 instance in a Docker Container.
+  
+  The backend will be seperated into Models, Controllers, and Services.  The API will come into the router, which will then be directed to the service that it applies to.  Then that service will direct it to the Controller of that object.  That controller will then invoke the Model of that object to do its business.  It will then return the information to the API request back through.
+  
+#### Objects
+  * Rentals
+  * Users
 
 ## Database:
   The Database will be created as a MySQL database that will be hosted on AWS as an RDS cluster, which can easily be accessed from the Back-End.
