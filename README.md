@@ -11,6 +11,6 @@ A program for listing and finding Professional spaces to rent.
   The Database will be created as a MySQL database that will be hosted on AWS as an RDS cluster, which can easily be accessed from the Back-End.
   
 Creators (2021):
-  -Wesley Messer
-  -Andrew Messer
-  -Tyler Crum
+  - Wesley Messer
+  - Andrew Messer
+  - Tyler Crum
